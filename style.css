@@ -1,0 +1,15 @@
+#tabel_gaya {
+	background:#dce8ed;
+	padding:4px;
+	font-size:14px;
+	font-family:Tahoma;
+	border: 10px;
+}
+#content_tabel {
+	padding:3px;
+	color:#0d3339;
+	background:#c6d9ee;
+}
+#header_tabel {
+	background:#96c0e2;
+}

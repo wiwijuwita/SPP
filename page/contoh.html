@@ -1,0 +1,16 @@
+<html>
+	<head></head>
+	<body>
+		<div>hai</div>
+		<div id="cek1"></div>
+		<input type="button" onclick="return Tambah()"/>
+	</body>
+</html>
+<script lang="javascript">
+	var counter =1;
+	function Tambah(){
+	var nextcounter = counter+1;
+		document.getElementById('cek'+counter).innerHTML="ujang<div id=\"cek"+nextcounter+"\"></div>";
+		counter++;
+	}
+</script>
